@@ -1,8 +1,10 @@
 streamlit
 zhipuai
-langchain
 langchain-community
 chromadb
 pypdf
 python-docx
 docx2txt
+sniffio
+httpx
+anyio
